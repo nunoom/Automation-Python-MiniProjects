@@ -41,8 +41,8 @@ PastaEscolhida/
 
 ```bash
 # Clone o repositório
-git clone https://github.com/SEU_USUARIO/SEU_REPO.git
-cd SEU_REPO
+git clone https://github.com/nunoom/Automation-Python-MiniProjects.git
+cd Automation-Python-MiniProjects
 
 # Rode o organizador
 python3 organizador.py
